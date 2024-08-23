@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Check out my website!!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*Hint: Even though I'm using React, you don't even need `npm` to solve this challenge.*
